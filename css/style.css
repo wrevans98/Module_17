@@ -1,0 +1,31 @@
+body {
+    background-color: #343E3D;
+}
+p {
+    color: #fff;
+}
+.inline-block {
+    background-color:#607466;
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left:auto;
+    color: #fff;
+}
+.heroimg {
+    height: 600px;
+    padding: 25px;
+    width: 500;
+    margin: 0 auto;
+}
